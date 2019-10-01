@@ -19,5 +19,5 @@ from authapp import views
 
 urlpatterns = [
     path('admin/', admin.site.urls),
-    path(r'^$',views.index,name="index")
+    path('index',views.index,name="index"),
 ]
