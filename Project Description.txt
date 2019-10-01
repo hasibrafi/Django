@@ -1,0 +1,8 @@
+In this project with django- there will be :
+django MVT pattern which will include -
+urls
+template
+views
+models
+migrations
+ORM
