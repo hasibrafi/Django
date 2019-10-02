@@ -21,6 +21,7 @@ from authapp import views
 urlpatterns = [
     path('admin/', admin.site.urls),
     #path('authapp/',include('authapp.urls')),
+    path('',views.index,name="index"),
     path('index/',views.index,name="index"),
     path('signup/',views.signup_view,name='signup')
 ]
