@@ -2,7 +2,7 @@
    <body>
       <form action = "" method = "POST">
           {% csrf_token %}
-         <h3>Sign In</h3>
+         <h3>Sign In <small>or </small><a href="{% url 'signup'%}">Click here to Sign Up</a> </h3>
          Username: <br>
          <input type = "text" name = "username" /></br>
 

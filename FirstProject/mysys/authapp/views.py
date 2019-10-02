@@ -14,6 +14,5 @@ def index(request):
 
 def signup_view(request):
     #form = forms.SignUp()
-
     return render(request,'authapp/signup.html')
 
