@@ -13,5 +13,7 @@ def index(request):
     return render(request,'authapp/index.html')
 
 def signup_view(request):
-    form = forms.SignUp()
-    return render(request,'authapp/signup.html',{'form':form})
+    #form = forms.SignUp()
+
+    return render(request,'authapp/signup.html')
+

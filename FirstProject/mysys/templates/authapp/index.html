@@ -1,6 +1,7 @@
 <html>
    <body>
       <form action = "" method = "POST">
+          {% csrf_token %}
          <h3>Sign In</h3>
          Username: <br>
          <input type = "text" name = "username" /></br>

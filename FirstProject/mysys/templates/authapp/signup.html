@@ -1,7 +1,8 @@
 <html>
    <body>
       <form action = "" method = "POST">
-          {{form}}
+          {{form.as_p}}
+          {% csrf_token %}
          <h3>Sign Up</h3>
          Username: <br>
          <input type = "text" name = "username" /></br>
