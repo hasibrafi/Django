@@ -2,24 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ddc78a82-a044-44b6-9c88-71359473e014" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Authapp/accounts/templates/registration/login.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Authapp/accounts/templates/registration/register.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Authapp/accounts/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FirstProject/mysys/authapp/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/Authapp/accounts/templates/dashboard.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FirstProject/mysys/authapp/admin.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FirstProject/mysys/authapp/apps.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FirstProject/mysys/authapp/forms.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FirstProject/mysys/authapp/migrations/0001_initial.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FirstProject/mysys/authapp/migrations/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/Authapp/accounts/templates/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FirstProject/mysys/authapp/models.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FirstProject/mysys/authapp/tests.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FirstProject/mysys/authapp/urls.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FirstProject/mysys/authapp/views.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FirstProject/mysys/db.sqlite3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FirstProject/mysys/manage.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FirstProject/mysys/mysys/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/../FirstProject/mysys/mysys/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FirstProject/mysys/templates/authapp/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FirstProject/mysys/templates/authapp/signup.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Authapp/accounts/templates/dashboard.html" beforeDir="false" afterPath="$PROJECT_DIR$/Authapp/accounts/templates/dashboard.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Authapp/accounts/templates/registration/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/Authapp/accounts/templates/registration/login.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Authapp/accounts/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/Authapp/accounts/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Authapp/accounts/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/Authapp/accounts/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Authapp/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/Authapp/db.sqlite3" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
